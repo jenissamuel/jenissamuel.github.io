@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is your personal page. 
+This is your personal page.
 
 [Link to another page](./another-page.html).
 
